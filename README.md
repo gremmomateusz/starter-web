@@ -1,11 +1,11 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
 I like potatos and tomatos.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ### Copyright
 
@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 
 ### How to Contribute
 
-Fork this repository and pull request
+Fork this repository and pull request.
